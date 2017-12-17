@@ -1,0 +1,3 @@
+[submodule "src/node/tools/warning-header-parser"]
+	path = src/node/tools/warning-header-parser
+	url = https://github.com/jeremylorino/warning-header-parser
